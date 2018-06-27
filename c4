@@ -1,0 +1,13 @@
+<style>
+  h2 {
+    width: 80vw;
+  }
+  p {
+    width: 75vmin;
+  }
+</style>
+
+//Instead of using px or em, you can use another relative metric called "viewport units"//
+//The options are: % viewport width (vw), % viewport height (vh), % smallest dimension (vmin), % largest dimension (vmax)//
+//In this example, h2's width is set to 80% of the viewport width//
+//P's width is set to 75% of the smallest viewport dimension (height vs width)//
