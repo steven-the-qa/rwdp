@@ -1,0 +1,14 @@
+<style>
+  p {
+    font-size: 20px;
+  }
+  
+  /* Add media query below */
+  @media (max-height: 800px) {
+    p {
+      font-size: 10px;
+  }
+</style>
+
+//Media queries are used to apply CSS rules to devices with specified viewports (screen sizes)//
+//This is an important tool for creating responsive web pages//
