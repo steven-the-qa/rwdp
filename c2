@@ -1,0 +1,15 @@
+<style>
+  img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+  }
+</style>
+
+//Making images responsive is easy//
+//Don't set an absolute height and width//
+//Max-width fits the element to the width of its container//
+//Block display gives the element its own line (takes it out of inline status)//
+//Auto height adjusts height to keep the original height-width ratio after max-width changes width//
+
+//This is the pure-CSS version of the img-responsive class in Bootstrap//
